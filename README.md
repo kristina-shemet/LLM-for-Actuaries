@@ -11,16 +11,6 @@ This repository features all the materials from my master thesis, which focused 
 - `finma rs 2016 05.pdf` and `finma rs 2016 05 en.pdf`: The original regulatory document and its English translation used for creating the training dataset.
 - `LLM_for_Actuarial_Science.ipynb`: Jupyter notebook containing the code for fine-tuning the Mistral 7B model, implementing RAG, and evaluating the models.
 
-## Repository Structure
-/
-├── Answers of GPT4 Model.pdf
-├── LLM_for_Actuarial_Science.ipynb
-├── Score by GPT4 for Fine-Tuned Model with RAG and Base Model with RAG.pdf
-├── Score by GPT4 for Fine-tuned Model and GPT4.pdf
-├── Score by GPT4 for Fine-tuned Model with RAG and GPT4.pdf
-├── finma rs 2016 05.pdf
-└── finma rs 2016 05 en.pdf
-
 ## Usage
 To replicate the fine-tuning and testing process, follow these steps:
 1. Ensure you have a Python environment with Jupyter installed, or prefer to use Google Colab for an environment that requires no setup.
