@@ -12,7 +12,6 @@ This repository features all the materials from my master thesis, which focused 
 - `LLM_for_Actuarial_Science.ipynb`: Jupyter notebook containing the code for fine-tuning the Mistral 7B model, implementing RAG, and evaluating the models.
 
 ## Repository Structure
-\```plaintext
 /
 ├── Answers of GPT4 Model.pdf
 ├── LLM_for_Actuarial_Science.ipynb
@@ -21,7 +20,6 @@ This repository features all the materials from my master thesis, which focused 
 ├── Score by GPT4 for Fine-tuned Model with RAG and GPT4.pdf
 ├── finma rs 2016 05.pdf
 └── finma rs 2016 05 en.pdf
-\```
 
 ## Usage
 To replicate the fine-tuning and testing process, follow these steps:
