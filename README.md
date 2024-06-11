@@ -1,4 +1,3 @@
-```
 # Master Thesis: Using Large Language Models for Retrieval-Augmented Generation in Actuarial Science
 
 ## Overview
@@ -46,4 +45,3 @@ I am deeply grateful to the people who provided invaluable assistance and guidan
 - Azenes AG, for providing me the opportunity to conduct my research on a topic directly related to my work.
 
 Thank you all for your contributions and support.
-```
