@@ -1,4 +1,4 @@
-# Master Thesis: Using Large Language Models for Retrieval-Augmented Generation in Actuarial Science
+# Using Large Language Models for Retrieval-Augmented Generation in Actuarial Science
 
 ## Overview
 This repository features all the materials from my master thesis, which focused on enhancing the performance of Large Language Models (LLMs) within the actuarial science field using advanced machine learning techniques. The project specifically explores the post-training effects on the Mistral 7B model utilizing a Swiss regulatory document concerning tied assets for insurance companies. Through the application of fine-tuning and Retrieval-Augmented Generation (RAG) methods, the study aimed to improve the model's ability to process and interpret complex document content. Although fine-tuning showed minimal improvement in the model's response precision, the incorporation of RAG significantly increased the accuracy and relevance of the responses. This outcome illustrates that LLMs, when augmented with RAG, can effectively comprehend and contextualize beyond their initial training sets, thereby offering more precise and timely solutions to actuarial queries.
@@ -19,17 +19,5 @@ To replicate the fine-tuning and testing process, follow these steps:
    - From the menu in Colab, go to `Runtime` > `Change runtime type`.
    - Choose `GPU` as the hardware accelerator.
 4. Follow the instructions in the notebook to install any required libraries and run the cells.
-
-## Contact
-- **Name**: Kristina Shemet
-- **Email**: kristina.shemet@unil.ch
-- **Institution**: Faculty of Business and Economics, University of Lausanne, Quartier de Chambronne, 1015 Lausanne, Switzerland
-
-## Acknowledgments
-I am deeply grateful to the people who provided invaluable assistance and guidance throughout the completion of this thesis. Special thanks to:
-- Professor Michalis Vlachos, for accepting to be my supervisor and guiding me through the process.
-- Henri Jamet, for his guidance, availability, and insightful suggestions.
-- Micha Villing, who supervised my internship, provided critical feedback, and supported me throughout the journey.
-- Azenes AG, for providing me the opportunity to conduct my research on a topic directly related to my work.
 
 Thank you all for your contributions and support.
