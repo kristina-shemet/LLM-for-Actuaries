@@ -14,7 +14,7 @@ This repository features all the materials from my master thesis, which focused 
 ## Usage
 To replicate the fine-tuning and testing process, follow these steps:
 1. Ensure you have a Python environment with Jupyter installed, or prefer to use Google Colab for an environment that requires no setup.
-2. [Open the `LLM_for_Actuarial_Science.ipynb` notebook in Google Colab](https://colab.research.google.com/drive/1RzcQa_4XjopqqJLa-PDXV18bJhQEpFC8?usp=sharing).
+2. [Open the `LLM_for_Actuarial_Science.ipynb` notebook in Google Colab](https://colab.research.google.com/drive/1TtR1PUJaWFWZRhG26Qq0Ar5Fr_SNodUE?usp=sharing).
 3. Before running the notebook, ensure to switch to a GPU runtime:
    - From the menu in Colab, go to `Runtime` > `Change runtime type`.
    - Choose `GPU` as the hardware accelerator.
