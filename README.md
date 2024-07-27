@@ -15,8 +15,8 @@ This repository features all the materials from the paper, which focused on enha
 ## Usage
 To replicate the fine-tuning and testing process, follow these steps:
 1. Ensure you have a Python environment with Jupyter installed, or prefer to use Google Colab for an environment that requires no setup.
-2. [Open the `LLM_for_Actuarial_Science.ipynb` notebook in Google Colab](https://colab.research.google.com/drive/1TtR1PUJaWFWZRhG26Qq0Ar5Fr_SNodUE?usp=sharing).
-3. Before running the notebook, ensure to switch to a GPU runtime:
+2. Download and open the notebook.
+3. If you are running in Google Colab, before running the notebook, ensure to switch to a GPU runtime:
    - From the menu in Colab, go to `Runtime` > `Change runtime type`.
    - Choose `GPU` as the hardware accelerator.
 4. Follow the instructions in the notebook to install any required libraries and run the cells.
